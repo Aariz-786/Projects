@@ -1,0 +1,11 @@
+To run this app.
+
+1 -> install npm
+2 -> install mongoose
+3 -> install dotenv
+4 -> install router
+5 -> install bcryptjs
+6 -> install jsonwebtoken
+7 -> install cookie-parser
+8 -> then run command  "npm start" or "npm dev"
+

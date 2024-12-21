@@ -1,0 +1,9 @@
+To run this app.
+
+1 -> install npm
+2 -> install mongoose
+3 -> install dotenv
+4 -> install router
+4 -> install cloudinary
+4 -> install nodemailer
+n -> then run command  "npm start" or "npm dev"
